@@ -1,0 +1,31 @@
+.form-class {
+    text-align: center;
+    width: 30%;
+    top: 25%;
+    left: 35%;
+    position: absolute;
+    border: 1px solid #ddcfcfa8;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.btn-login {
+    width: 100%;
+    margin-bottom: 15px;
+    background-color: #407cd5;
+    height: 45px;
+    color: white;
+}
+.errorCls {
+    color: red;
+    font-size: 12px;
+}
+.btn-signup {
+    width: 100%;
+    margin-bottom: 15px;
+    background-color:#75c575;
+    height: 45px;
+    text-align: center;
+    color: white;
+    padding: 12px;
+}

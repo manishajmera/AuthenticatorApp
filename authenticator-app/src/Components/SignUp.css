@@ -1,0 +1,15 @@
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+.errorCls {
+    color: red;
+    font-size: 12px;
+}
+.success{
+    color: lightgreen;
+    font-size: 12px;
+}
